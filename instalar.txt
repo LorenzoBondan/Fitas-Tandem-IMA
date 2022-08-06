@@ -1,0 +1,1 @@
+Setup Software para extrair e filtrar as fitas contidas no relatorio txt.
